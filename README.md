@@ -1,4 +1,4 @@
-📖 Story Generator
+
 The Story Generator is a fun and creative project that automatically generates unique stories based on given inputs or random prompts.
 It uses logic and structured templates (or AI, if you plan to integrate later) to create interesting narratives that can be:
 📝 Short stories
